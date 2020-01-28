@@ -1,3 +1,3 @@
 # modular-net
 
-An implementation of key deep learning modules in Python and Numpy
+An implementation of key deep learning modules in Python and Numpy.
